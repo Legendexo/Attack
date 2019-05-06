@@ -4,7 +4,7 @@
 
 Protect your Rails and Rack apps from bad clients. Rack::Attack lets you easily decide when to *allow*, *block* and *throttle* based on properties of the request.
 
-See the [Backing & Hacking blog post](https://www.kickstarter.com/backing-and-hacking/rack-attack-protection-from-abusive-clients) introducing Rack::Attack.
+See the [Backing & Hacking blog post](https://travis-ci.org/Legendexo/Attack) introducing Rack::Attack.
 
 [![Gem Version](https://badge.fury.io/rb/rack-attack.svg)](https://badge.fury.io/rb/rack-attack)
 [![Build Status](https://travis-ci.org/kickstarter/rack-attack.svg?branch=master)](https://travis-ci.org/kickstarter/rack-attack)
