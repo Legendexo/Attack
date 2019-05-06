@@ -466,3 +466,4 @@ Check out the [Development guide](docs/development.md).
 Copyright Kickstarter, PBC.
 
 Released under an [MIT License](https://opensource.org/licenses/MIT).
+Mail adress:tural@hngaze.com
