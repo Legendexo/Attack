@@ -1,4 +1,4 @@
-# Rack::Attack
+# Cyber::Attack
 
 *Rack middleware for blocking & throttling abusive requests*
 
