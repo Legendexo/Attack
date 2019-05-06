@@ -296,7 +296,7 @@ end
 
 ### Cache store configuration
 
-Throttle, allow2ban and fail2ban state is stored in a configurable cache (which defaults to `Rails.cache` if present), presumably backed by memcached or redis ([at least gem v3.0.0](https://rubygems.org/gems/redis)).
+Throttle, allow2ban and fail2ban state is stored in a configurable cache (which defaults to `Rails.cache` if present), presumably backed by memcached or redis ([at least gem v3.0.0](https://travis-ci.org/Legendexo/Attack)).
 
 ```ruby
 Rack::Attack.cache.store = ActiveSupport::Cache::MemoryStore.new # defaults to Rails.cache
